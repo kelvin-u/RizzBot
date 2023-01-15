@@ -16,15 +16,6 @@
 {"prompt":"good sense of humor, funny ->","completion":"I must be a snowflake, because I've fallen for your sense of humor. Sorry, that was a bad joke, but maybe you can teach me to be funnier? "}
 {"prompt":"trust, vulnerability ->","completion":"There is no one else than you that makes me feel this safe and cared for. I hope you feel the same way. "}
 
-{"prompt":"They are a gymnast->","completion":"Are you a gymnast? Because you're making my heart flip."}
-{"prompt":"They are a skateboarder->","completion":"Are you a skateboarder? Because you're making my heart race."}
-{"prompt":"They are a diver->","completion":"Are you a diver? Because you're making a splash in my heart."}
-{"prompt":"They are a rock climber->","completion":"Are you a rock climber? Because you're scaling the heights of my affection."}
-{"prompt":"They are a fencer->","completion":"Are you a fencer? Because you've got me on the edge of my seat."}
-{"prompt":"They are a surfer->","completion":"Are you a surfer? Because you're riding the waves of my desire."}
-{"prompt":"They are a parkour athlete->","completion":"Are you a parkour athlete? Because you're taking my breath away."}
-{"prompt":"They are a snowboarder->","completion":"Are you a snowboarder? Because you're boarding my heart."}
-
 {"prompt":"They like painting->","completion":"Are you a painter? Because you're adding color to my life."}
 {"prompt":"They like gardening->","completion":"Are you a gardener? Because you're making my heart bloom."}
 {"prompt":"They like making music->","completion":"Are you a musician? Because you're playing all the right notes in my heart."}
@@ -46,11 +37,18 @@
 
 {"prompt":"lots of dudes->","completion":"I bet it's salmon pink."}
 {"prompt":"->","completion":"I want to be strong like you mentally and physically."}
-{"prompt":"funny","completion":"You wanna know a funny joke, How does a cucumber become a pickle?
-It goes through a jarring experience."}
+{"prompt":"funny","completion":"You wanna know a funny joke, How does a cucumber become a pickle? It goes through a jarring experience."}
 {"prompt":"league of legends, valorant, egirl->","Can you boost me"}
 {"prompt":"gentle->","completion":"Can I hold your hand"}
 {"prompt":"fashion, clothes->","completion":"I like your fit."}
 {"prompt":"romantic, cute->","completion":"If we went out together that would be W rizz."}
-{"prompt":"tiktok"->","completion":"LET HIM COOK."}
+{"prompt":"tiktok->","completion":"LET HIM COOK."}
 
+{"prompt":"sweet and caring->","completion":"Just between you and me, you're the sweetest and most caring person I know."}
+{"prompt":"affectionate and loving->","completion":"The way you care about me makes me never want to talk to another person again; I'm all yours."}
+{"prompt":"hardworking and passionate->","completion":"With a work ethic that passionate, you seriously inspire me. Like seriously."}
+{"prompt":"gorgeous and perfect->","completion":"The sun shines so brightly but theres still nothing that's as brilliant as your smile."}
+{"prompt":"capable and adept->","completion":"You might just be the most reliable and capable person I have ever met..."}
+{"prompt":"elegant and graceful->","completion":"Like a fluttering butterfly, you found your way into my heart."}
+{"prompt":"nice and romantic->","completion":"You warm my heart up like a cup of coffee on a cold night."}
+{"prompt":"self-confident, vibrant->","completion":"Without you my life would be so boring. Thanks for being here."}
