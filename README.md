@@ -1,4 +1,4 @@
-# RizzBot.
+# RizzBot
 
 
 Starting a conversation can be tricky. Let us Help. Introducing RizzBot, the innovative conversation starter bot that helps you break the ice and meet new people. 
