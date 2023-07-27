@@ -28,4 +28,3 @@ pip install openai
 
 # Contact
 yukaiwenn@gmail.com
-kelvinu.ca
