@@ -25,3 +25,7 @@ git clone https://github.com/kelvin-u/RizzBot.git
 pip install openai
 ```
 3. Run the python file _ownmodel.py_
+
+# Contact
+yukaiwenn@gmail.com
+kelvinu.ca
