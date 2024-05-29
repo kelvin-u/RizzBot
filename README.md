@@ -27,5 +27,6 @@ pip install openai
 3. Run the python file _ownmodel.py_
 
 # Contact
-yukaiwenn@gmail.com
+yukaiwenn@gmail.com 
+
 mazenyousse100@gmail.com
